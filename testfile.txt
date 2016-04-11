@@ -1,1 +1,1 @@
-This is a test text file for Gith
+This is a test text file for Github
